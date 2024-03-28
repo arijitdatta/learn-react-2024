@@ -1,0 +1,1 @@
+This app uses NestedRoutes on the App.js page. Then it uses the <Outlet/> way of displaying the sub routes. Outlet is defined in the app-layout.js
